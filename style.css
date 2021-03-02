@@ -1,0 +1,286 @@
+/*header area start*/
+header {
+    padding: 40px 0;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 47px;
+}
+
+header nav ul li:first-child {
+    margin-left: 10px;
+}
+
+header nav {
+    background-color: #e2494b;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 262px;
+}
+
+header nav ul li a {
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+header nav ul li a:hover {
+    color: #ee9395;
+    text-decoration: none;
+}
+
+/*header area end*/
+
+
+/*slider area start*/
+.quote {
+    padding: 45px 0px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.col-md-8.offset-md-2.quote {
+    font-style: italic;
+}
+
+/*
+i.fas.fa-quote-left {
+    position: absolute;
+    font-size: 7px;
+    top: 49px;
+    left: 14px;
+    font-style: italic;
+}
+
+i.fas.fa-quote-right {
+    position: absolute;
+    font-size: 8px;
+    right: 308px;
+    top: 89px;
+    font-style: italic;
+}
+*/
+.carousel {
+    width: 100%;
+}
+
+.carousel img {
+    width: 100%;
+    height: 450px;
+}
+
+.slider-area {
+    padding-bottom: 50px;
+}
+
+ol.carousel-indicators li {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #ddd;
+}
+
+.carousel-indicators {
+    bottom: -57px;
+}
+
+/*slider area end*/
+
+
+
+/*service section start*/
+.service-description h4 {
+    margin-top: 13px;
+    margin-left: -16px;
+}
+
+.service-description p {
+    font-size: 15px;
+    margin-top: 13px;
+    opacity: .8;
+    line-height: 1.7;
+    margin-bottom: 0px;
+}
+
+p {}
+
+a.read-more {
+    color: #e2494b;
+    font-size: 14px;
+}
+
+a.read-more:hover {
+    text-decoration: none;
+    color: red;
+}
+
+a.read-more {}
+
+section.service {
+    margin: 30px 0px;
+}
+
+.section-title h3 {
+    font-size: 18px;
+    background-color: #e2494b;
+    color: white;
+    width: 175px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 300;
+    text-transform: uppercase;
+    position: absolute;
+    top: -1px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.section-title {
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+    margin-bottom: 55px;
+    position: relative;
+}
+
+h3 {}
+
+/*service section end*/
+
+
+/*team sectiion start*/
+section .team-area {}
+
+section.team-area {
+    margin: 55px 0px;
+}
+
+.single-team-member {
+    width: 19%;
+    float: left;
+    margin-left: 10px;
+}
+
+.single-team-member img {
+    width: 100%;
+    height: 187px;
+}
+
+.team-members {
+    margin-top: 30px;
+}
+
+.single-team-member h4 {
+    margin: 20px 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.team-members {}
+
+p {}
+
+.single-team-member p {
+    font-size: 13px;
+    opacity: .8;
+    line-height: 1.7;
+}
+
+/*team sectiion end*/
+
+/*latest work start*/
+.single-work img {
+    height: 200px;
+    width: 100%;
+}
+
+.latest-work {
+    margin-bottom: 50px;
+}
+
+/*latest work end*/
+
+/*footer start*/
+.col-lg-6 .post {
+    width: 100%;
+    margin-top: 7px;
+    overflow: hidden;
+}
+
+.post-thumb {
+    width: 20%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.post-thumb img {
+    width: 100%;
+}
+
+.post-excerpt h3 {
+    margin: 3px;
+    color: #e2494b;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.post-excerpt {
+    width: 75%;
+    float: left;
+    margin-left: 26px;
+}
+
+footer h4 {
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.post-excerpt p {}
+
+.contact-desc p {
+    font-size: 14px;
+    margin: 0 0 7px 0;
+}
+
+.contact-desc p span {
+    color: #e2494b;
+}
+
+.office-hours {
+    margin-top: 20px;
+}
+
+footer {
+    padding: 50px 0 0 0;
+    background-color: #e2e2e2;
+}
+
+.footer-foot {
+    margin: 50px 0 0 0;
+    border-top: 1px solid lightsteelblue;
+}
+
+.footer-foot {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.footer-foot p {
+    font-size: 12px;
+    opacity: .8;
+    margin-top: 13px;
+}
+
+/*footer end*/
